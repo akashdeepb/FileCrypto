@@ -14,6 +14,8 @@ Inorder to use FileCrypto
 -> Type `sudo encrypt [file(s)]` to encrypt<br>
 -> Type `sudo decrypt [file(s)]` to decrypt<br>
 
+Type `encrypt` or `decrypt` for help
+
 [This tool can only be run by root user]
 
 ## Removing
